@@ -1,7 +1,6 @@
 let name = "Muhammad";
 let age = 22;
 let university = "University of Malakand";
+let aa;
 
-console.log(name);
-console.log(age);
-console.log(university);
+console.table([name,age,university,aa])
