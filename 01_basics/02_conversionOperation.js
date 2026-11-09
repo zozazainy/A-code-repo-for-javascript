@@ -15,3 +15,20 @@ console.log (h)
 console.log (typeof(h))
 let zi="hitec"
 console.log (Number(zi))
+let g=1
+let v=Boolean(g)
+console.log (v)
+console.log (typeof (v))
+let r="zoza"
+let c=Boolean (r)
+console.log (c)
+console.log (typeof(c))
+let yi=""
+let x=Boolean(yi)
+console.log(x)
+console.log (yi)
+let f=2323
+let cc=String(f)
+console.log (cc)
+console.log (f) 
+console.log (typeof(cc))
