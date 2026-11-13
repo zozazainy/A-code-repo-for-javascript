@@ -8,4 +8,4 @@ const jsy={
     lastlogin; ["mondAY","TUESDAY","THURSDAY"]
 }
 console.log (jsy.name)
-console.log (jsy.email)
+console.log (jsy["email"])
