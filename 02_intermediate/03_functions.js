@@ -24,3 +24,7 @@ function subtract2num(a,b){
     console.log ("zozazainy ") // after return function will not give us the output for this line
 }
 console.log ("result", subtract2num(9,8))
+
+function loginusermessage(username){
+    return `${username} just login`
+}
