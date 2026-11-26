@@ -24,3 +24,14 @@ console.log (id==p)
 const k=123123322333n
 console.log (k)
 console.log (typeof(k))
+const w=["zoza","zainy","khan","dheri"]
+let v={
+    name:"zoza",
+    age:22,
+
+}
+const my= function(){
+    console.log ("zozazainy")
+    
+}
+console.log(typeof my)
