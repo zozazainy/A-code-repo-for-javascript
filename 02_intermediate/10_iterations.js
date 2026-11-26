@@ -252,3 +252,10 @@ const newnom=numss
             .map((num => num+10))
             .filter((num => num>=40))
 console.log (newnom)
+
+//reduce method
+
+const arrayd=[1,2,3,4]
+const initialval=0
+const sumwithinitail=arrayd.reduce( (accumulator , currentvalue) => accumulator+currentvalue,initialval)
+console.log (sumwithinitail)
